@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG   CMakeFiles/hole.dir/hole.c.o CMakeFiles/hole.dir/source_hole.c.o  -o hole -rdynamic ../lib/libzip.a -lz 

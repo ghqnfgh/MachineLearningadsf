@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG   CMakeFiles/fread.dir/fread.c.o  -o fread -rdynamic ../lib/libzip.a -lz 
