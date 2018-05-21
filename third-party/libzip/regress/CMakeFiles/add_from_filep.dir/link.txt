@@ -1,1 +1,0 @@
-/usr/bin/cc  -O3 -DNDEBUG   CMakeFiles/add_from_filep.dir/add_from_filep.c.o  -o add_from_filep -rdynamic ../lib/libzip.a -lz 
